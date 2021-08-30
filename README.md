@@ -1,4 +1,4 @@
-### Hi there 👋
+### PDM01 김태민
 
 <!--
 **PDM01/PDM01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
